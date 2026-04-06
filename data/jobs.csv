@@ -1,0 +1,6 @@
+title,company,required_experience,required_skills,salary_range,location
+Senior ML Engineer,Google,5,Python Machine Learning TensorFlow,120000-180000,San Francisco
+GenAI Engineer,Anthropic,3,LLMs RAG Python,100000-150000,San Francisco
+MLOps Engineer,AWS,4,Docker Kubernetes Python,90000-130000,Seattle
+NLP Researcher,Amazon,6,NLP Python PyTorch,110000-160000,London
+Data Scientist,Spotify,2,Python Pandas Statistics,70000-100000,Berlin

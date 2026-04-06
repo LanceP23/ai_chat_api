@@ -1,0 +1,16 @@
+name,age,specialization,years_experience,salary,location,education,company
+Lance,23,Python,3,35000,Manila,Bachelor's,Startup
+John,25,Machine Learning,4,40000,Singapore,Master's,Google
+Sara,28,Computer Vision,6,60000,San Francisco,PhD,OpenAI
+Jennifer,32,NLP,5,32000,London,Master's,Amazon
+Dennis,37,Software Engineering,12,45000,New York,Bachelor's,Microsoft
+Bob,29,GenAI,7,72000,San Francisco,Master's,Anthropic
+Alice,26,Data Science,3,38000,Berlin,Bachelor's,Spotify
+Marcus,34,MLOps,9,85000,Seattle,Master's,AWS
+Priya,27,Deep Learning,4,55000,Bangalore,PhD,Meta
+Carlos,31,RAG Systems,6,68000,Madrid,Master's,Startup
+Yuki,24,Prompt Engineering,2,42000,Tokyo,Bachelor's,OpenAI
+Fatima,29,Vector Databases,5,63000,Dubai,Master's,Pinecone
+Ryan,35,AI Infrastructure,11,92000,Austin,Bachelor's,Tesla
+Mei,26,Fine Tuning,3,48000,Shanghai,Master's,Baidu
+Aisha,30,LLM Engineering,7,78000,Toronto,PhD,Cohere
